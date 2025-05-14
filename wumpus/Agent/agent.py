@@ -1,5 +1,5 @@
-from wumpus.Types.location import Location, Direction
-from wumpus.Agent.KnowledgeBase import KnowledgeBase
+from wumpus.types.location import Location, Direction
+from wumpus.agent.KnowledgeBase import KnowledgeBase
 
 
 class Agent:

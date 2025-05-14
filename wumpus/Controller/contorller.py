@@ -1,5 +1,5 @@
-from wumpus.Agent import Agent
-from wumpus.Environment import Environment
+from wumpus.agent import Agent
+from wumpus.environment import Environment
 
 
 class Controller:

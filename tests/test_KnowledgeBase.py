@@ -1,8 +1,8 @@
 # pylint: disable=unused-import
 """print test"""
 import pytest
-from wumpus.Agent.KnowledgeBase import KnowledgeBase
-from wumpus.Types.location import Location
+from wumpus.agent.KnowledgeBase import KnowledgeBase
+from wumpus.types.location import Location
 
 
 def test_render_map_output(capsys):

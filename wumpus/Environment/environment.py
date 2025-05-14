@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-from wumpus.Environment.cell import Cell
+from wumpus.environment.cell import Cell
 
 
 class Environment:

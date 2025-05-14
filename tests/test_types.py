@@ -2,9 +2,9 @@
 """tests for the types module (Action, Location, Percept)"""
 
 import pytest
-from wumpus.Types.action import Action
-from wumpus.Types.location import Location, Direction
-from wumpus.Types.percept import Percept
+from wumpus.types.action import Action
+from wumpus.types.location import Location, Direction
+from wumpus.types.percept import Percept
 
 
 def test_action_enum_values():

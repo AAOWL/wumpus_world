@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-from wumpus.Types.location import Location
+from wumpus.types.location import Location
 
 
 class KnowledgeBase:

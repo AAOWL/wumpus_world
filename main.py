@@ -1,5 +1,5 @@
-from wumpus.Agent.KnowledgeBase import KnowledgeBase
-from wumpus.Types.location import Location
+from wumpus.agent.KnowledgeBase import KnowledgeBase
+from wumpus.types.location import Location
 
 
 def main():
